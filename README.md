@@ -1,6 +1,8 @@
 # hls-interop-jan2023-workshop
 1.24 Workshop Material for "Architecture &amp; Interoperability, Lakehouse Best Practices" 
 
+To run, import this repo into your Databricks "repo" environment. Make sure you attach necessary cluster resources listed below for your use case.
+
 Please feel free to submit an "issue" in this repo for help  
 
 ### Cluster Requirements and Recomendations
